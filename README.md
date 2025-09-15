@@ -14,4 +14,5 @@ chmod +x install.sh
 ```
 
 
+
 <img width="1024" height="768" alt="Screenshot from 2025-09-15 22-51-51" src="https://github.com/user-attachments/assets/c7ea3337-0994-4299-bada-555aa0e8a10e" />
