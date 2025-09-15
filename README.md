@@ -6,4 +6,12 @@
 
 برای افرادی که دارن سی رو یاد میگیرن یا سی پلاس پلاس این یه نمونه جالبیه! 
 
+
+اگه خواستید هم میتونید هم رو سیستمتون نصبش بکنید 
+```bash
+chmod +x install.sh
+./install.sh
+```
+
+
 <img width="1024" height="768" alt="Screenshot from 2025-09-15 22-51-51" src="https://github.com/user-attachments/assets/c7ea3337-0994-4299-bada-555aa0e8a10e" />
